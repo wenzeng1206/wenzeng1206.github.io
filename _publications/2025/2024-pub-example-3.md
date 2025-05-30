@@ -18,6 +18,6 @@ authors:
   - Donggyu Kim
   - Magdalayna Curry
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Code: https://github.com/wenzeng1206/SKYComBSV
+  #Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
