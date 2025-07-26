@@ -10,7 +10,7 @@ pub_date:       "2025"
 
 abstract: >-
   This study employs an innovative graph-based machine learning algorithm to investigate networked social influence dynamics in the mobile massively multiplayer online game (MMO) Sky: Children of the Light. Applying the COM-B model, we explore how Capability, Opportunity, and Motivation shape player influence within the game’s social network. Our findings reveal distinct contributions from each COM-B factor: Capability enhances influence, though excessive task focus correlates negatively with social impact; Opportunity emerges as the strongest predictor, with active social interactions significantly boosting influence; and Motivation varies by playstyle, with socializers and competitors demonstrating greater influence than narrative-focused players. By extending the COM-B model to digital gaming contexts, this research highlights new behavioral dimensions and introduces novel metrics for measuring social influence. These findings offer practical implications for fostering inclusivity in game design, identifying specific elements that encourage positive behavioral changes and providing actionable strategies for creating more engaging and equitable digital environments.
-#cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/cover3.jpg
 authors:
   - Wen Zeng
   - Chandni Kumar
@@ -20,8 +20,5 @@ authors:
 links:
   Code: https://github.com/wenzeng1206/SKYComBSV
   Link: https://convention2.allacademic.com/one/www/research/index.php?&obf_var=9323149&PHPSESSID=06il6ikcuiik0sahqrm88q1r58
-<p align="center">
-  <img src="assets/images/network_graph.png" alt="Network Visualization of Player Influence" width="600"/>
-</p>
 
 ---
