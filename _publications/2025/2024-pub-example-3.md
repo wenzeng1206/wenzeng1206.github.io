@@ -19,5 +19,5 @@ authors:
   - Magdalayna Curry
 links:
   Code: https://github.com/wenzeng1206/SKYComBSV
-  Paper: https://convention2.allacademic.com/one/www/research/index.php?&obf_var=8028900&PHPSESSID=06il6ikcuiik0sahqrm88q1r58
+  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
