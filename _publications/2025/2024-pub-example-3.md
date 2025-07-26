@@ -20,5 +20,6 @@ authors:
 links:
   Code: https://github.com/wenzeng1206/SKYComBSV
   Link: https://convention2.allacademic.com/one/www/research/index.php?&obf_var=9323149&PHPSESSID=06il6ikcuiik0sahqrm88q1r58
+  Presentation: https://docs.google.com/presentation/d/1Q9F5We9cX691B1BST_hYQ6M498WpLczoJPUEjQVei6o/edit?usp=sharing
 
 ---
