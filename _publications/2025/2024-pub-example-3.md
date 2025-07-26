@@ -20,4 +20,8 @@ authors:
 links:
   Code: https://github.com/wenzeng1206/SKYComBSV
   Link: https://convention2.allacademic.com/one/www/research/index.php?&obf_var=9323149&PHPSESSID=06il6ikcuiik0sahqrm88q1r58
+<p align="center">
+  <img src="assets/images/network_graph.png" alt="Network Visualization of Player Influence" width="600"/>
+</p>
+
 ---
