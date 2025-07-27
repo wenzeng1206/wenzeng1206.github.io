@@ -4,7 +4,6 @@ date: 2020-01-12 00:01:00 +0800
 width: 12
 ---
 <div style="width: 100%; overflow: hidden; margin: 0 auto;">
-  #<img data-src="{{ 'assets/images/covers/cover1.jpg' | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
 
   <div class="card-body" style="background: rgba(255,255,255,0.8);">
     <h5 class="card-title">AI-Driven Gaming Trend Intelligence for Strategic Communication</h5>
