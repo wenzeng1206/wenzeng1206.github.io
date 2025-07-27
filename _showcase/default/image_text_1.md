@@ -1,15 +1,14 @@
 ---
 show: true
-width: 4
 date: 2020-01-12 00:01:00 +0800
 ---
 <div>
-  <img data-src="{{ 'assets/images/covers/cover1.jpg' | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+  #<img data-src="{{ 'assets/images/covers/cover1.jpg' | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
 
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
-    <h5 class="card-title">Youtube Video Classification and NLP Analysis</h5>
+    <h5 class="card-title">AI-Driven Gaming Trend Intelligence for Strategic Communication</h5>
     <p class="card-text">
-      This project involved scraping YouTube videos related to computer games from January to June 2024 using the YouTube API. I then trained and utilized a BERT model to analyze the game genres featured in the videos. Through this analysis, I identified the most popular game genre. Next, I used the OpenAI API to analyze the comments of the most popular video within that genre and performed sentiment analysis to assess people's attitudes toward both the video and the game.
+      As part of my graduate coursework in AI-Assisted Strategic Communication, I co-developed an AI-powered market intelligence system designed to help Griffin Gaming Partners, a leading gaming venture capital firm, detect real-time genre trends and audience sentiment. Leveraging YouTube’s public API, we collected metadata and user comments from nearly 3,000 gameplay videos and applied natural language processing tools including a custom-trained BERT model for genre classification and GPT-based sentiment analysis. The system outputs a dashboard that tracks rising or declining game genres and community emotional response—offering investors a dynamic tool for trend forecasting, content timing, and sentiment-aligned decision-making. This project showcases my ability to build scalable data pipelines, apply machine learning to real-world communication challenges, and translate behavioral signals into actionable strategic insights.
     </p>
     <p class="card-text">
       {% raw %}
