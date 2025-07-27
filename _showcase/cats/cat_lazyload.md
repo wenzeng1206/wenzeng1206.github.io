@@ -5,6 +5,5 @@ date: 2019-01-12 00:01:00 +0800
 group: Cats
 ---
 <div>
-    <img data-src="{{ '/assets/images/5.png' | relative_url }}">
+    <img data-src="{{ 'assets/images/etc/5.jpg' | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top">
 </div>
-
