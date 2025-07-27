@@ -14,8 +14,8 @@ width: 12
     <p class="card-text">
     <a href="https://drive.google.com/file/d/1qFpVR5GNE1dT36I00htRlWrY0pCrTgqL/view?usp=sharing" target="_blank">Click here to view the project presentation</a>
     </p>
-
-    #<p class="card-text">
-
+    <p class="card-text">
+    <a href="https://github.com/wenzeng1206/YoutubeVideoAnalysis" target="_blank">Click here to view the project code</a>
+    </p>
   </div>
 </div>
