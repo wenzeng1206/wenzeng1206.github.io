@@ -5,7 +5,8 @@ date: 2024-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-
+    <h2>Project Showcase</h2>
+    <hr />
     <p>
        Below are some media and data analysis projects I have worked on. I hope to demonstrate my interests and abilities to you through these projects. 
     </p>
