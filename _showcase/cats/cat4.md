@@ -5,10 +5,6 @@ date: 2020-01-10 00:01:00 +0800
 group: Cats
 ---
 <div>
-  <img data-src="{{ '/assets/images/1.png' | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}"
-  <div class="card-body">
-    <p class="card-text">
-     tell your loved ones we said hi
-    </p>
-  </div>
+    <img data-src="{{ 'assets/images/etc/1.jpg' | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Tell your loved ones we said hi">
 </div>
+
