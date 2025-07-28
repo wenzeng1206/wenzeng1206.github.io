@@ -11,4 +11,4 @@ width: 12
   This project explores how socioeconomic status (SES) shapes access to higher education in China through the lens of Gaokao, the national college entrance exam. Drawing on sociological theories like social closure and geography of opportunity, the literature review investigates how institutional rules, shadow education, and spatial inequality reinforce educational stratification. Although I was invited to pursue this as an honors thesis, the project paused at the literature review stage due to the lack of a suitable departmental mentor. I remain deeply interested in this topic and hope to return to it in the future, as understanding inequality in society is one of my academic curiosities.
     </p>
     <p class="card-text">
-    <a href="https://drive.google.com/file/d/1GL3Qtp4wKJIihS7k3XX4zO7edPgDiixK/view?usp=sharing" target="_blank">Click here to view the project</a>
+    <a href="https://drive.google.com/file/d/1osFmhXwFw9y6Ev5teTPr8eP2Osey_t0Y/view?usp=sharing" target="_blank">Click here to view the project presentation</a>
