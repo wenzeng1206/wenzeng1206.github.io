@@ -14,6 +14,3 @@ The project demonstrates my ability to build multi-source datasets, standardize 
     </p>
     <p class="card-text">
     <a href="https://github.com/wenzeng1206/crime-cost-college-ranking" target="_blank">Click here to view the project and data</a>
-
-  </div>
-</div>
